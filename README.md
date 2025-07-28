@@ -319,14 +319,6 @@ Use the Swagger documentation at `/api-docs` for interactive API testing.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-##  License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-##  Support
-
-For support, email support@ridra.com or create an issue in the GitHub repository.
-
 ##  Links
 
 - **Backend API**: https://capstone1-60ax.onrender.com
