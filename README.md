@@ -90,8 +90,8 @@ API_URL=https://your-backend-url.com/api
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ridra-bus-tracking.git
-cd ridra-bus-tracking
+git clone https://github.com/NdanyuzweP/capstone_project
+cd capstone_project
 ```
 
 ### 2. Backend Setup
